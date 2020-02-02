@@ -23,6 +23,7 @@ jobs:
         CI: true
         
     - name: GitHub Pages
-       uses: crazy-max/ghaction-github-pages@v1.2.5
-       # Build directory to deploy
-       build_dir:  ./dist
+      uses: crazy-max/ghaction-github-pages@v1.2.5
+      with:
+          # Build directory to deploy
+          build_dir:  ./dist
