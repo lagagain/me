@@ -53,13 +53,33 @@ chapters:
   experience:
     title: 經歷
     content:
-      - type: Example
-        title: caten-church
-        subtitle:
-        tags: [Rails]
-        link: https://github.com/CatenChurch/caten-church
-        image: https://i.imgur.com/wpkTLeL.png
-        from: 2016-03-29
-        to: 2019
+      - type: Project
+        title: 俄羅斯方塊
+        subtitle: 網頁遊戲
+        tags: [HTML5, Web, Game]
+        link: https://lagagain.github.io/tetris-game/
+        image: https://i.postimg.cc/63X7yfBt/image.png
+        from: 2016-06-25
+        to: 2017-03-29
         description: |
-          Example
+          大二暑假時，練習js的物件導向。從零開始設計、開發。除了磨練自己js物件導向的用法，也從中找出並解決問題。
+      - type: Project
+        title: Web 計算機
+        subtitle: 網頁遊戲
+        tags: [HTML5, Web, Tools]
+        link: https://lagagain.github.io/web-calculator/
+        image: https://i.postimg.cc/fTrCLCR6/image.png
+        from: 2015
+        to: 2015
+        description: |
+          嘗試做的小小計算機練習項目。計算機的練習，我認為非常適合開入門學習，並寫過多種版本，這是Web版。
+      - type: Project
+        title: 卡牌記憶遊戲
+        subtitle: 網頁遊戲
+        tags: [HTML5, Web, Game]
+        link: https://moztw.org/foxmosa/game/pairs/
+        image: https://github.com/lagagain/browser-pairs/blob/master/images/start.png?raw=true
+        from: 2017-07
+        to: 2017-07
+        description: |
+          嘗試做的小小計算機練習項目。計算機的練習，我認為非常適合開入門學習，並寫過多種版本，這是Web版。
