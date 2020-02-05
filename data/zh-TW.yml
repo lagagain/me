@@ -31,6 +31,7 @@ chapters:
         - name: Node.js
         - name: Common Lisp
         - name: Lua
+        - name: Emacs
   education:
     title: 學歷
     content:
@@ -94,3 +95,10 @@ chapters:
         description: |
           2019年有一段時間，短暫的1～2周，因為一些原因學習了Laravel，這次我事後的學習筆記。
           Laravel是一個流行的PHP開發框架。不同於熱門的Drupal、WordPress.org， Laravel更像是Node.js的Express.js、Python的Django等等廣義的MVC框架。
+      - type: Project
+        title: 校園飛警
+        subtitle: 大學畢業專題
+        from: 2016-07
+        to: 2016-10
+        description: |
+          [待補充]
