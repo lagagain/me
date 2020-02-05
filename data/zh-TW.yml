@@ -83,3 +83,14 @@ chapters:
         to: 2017-07
         description: |
           嘗試做的小小計算機練習項目。計算機的練習，我認為非常適合開入門學習，並寫過多種版本，這是Web版。
+      - type: Project
+        title: 30天成爲laravel萌新
+        subtitle: 系列文章
+        tags: [Web, PHP, Article]
+        link: https://www.lagagain.com/post/30%E5%A4%A9%E6%88%90%E7%88%B2laravel%E8%90%8C%E6%96%B0%E7%9B%AE%E9%8C%84/
+        image: https://ithelp.ithome.com.tw/images/ironman/11th/event/kv_event/kv-bg-addfly.png
+        from: 2019-09-17
+        to: 2019-10-17
+        description: |
+          2019年有一段時間，短暫的1～2周，因為一些原因學習了Laravel，這次我事後的學習筆記。
+          Laravel是一個流行的PHP開發框架。不同於熱門的Drupal、WordPress.org， Laravel更像是Node.js的Express.js、Python的Django等等廣義的MVC框架。
