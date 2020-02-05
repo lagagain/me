@@ -29,6 +29,7 @@ jobs:
       with:
           # Build directory to deploy
           build_dir:  ./dist
-          keep_history: true
+          keep_history: false
       env:
           GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
