@@ -1,3 +1,4 @@
+# -*- yas-indent-line: fixed; -*-
 info:
   name: 魏誌宏
   email: lagagain@email.com
@@ -100,5 +101,35 @@ chapters:
         subtitle: 大學畢業專題
         from: 2016-07
         to: 2016-10
+        description: |
+          [待補充]
+      - type: Project
+        title: 舍難舍北皆春水上自由行
+        subtitle: 大學二年級網頁課程專題
+        tags: []
+        link: 
+        image: 
+        from: 2016-07
+        to: 2016-10
+        description: |
+          [待補充]
+      - type: Project
+        title: 計算機練習
+        subtitle: Java + Lua
+        tags: []
+        link: 
+        image: 
+        from: 2016-07
+        to: 2016-07
+        description: |
+            [待補充]
+      - type: Project
+        title: 計算機練習(kivy)
+        subtitle: Python + kv
+        tags: [Python, Kivy, kv]
+        link: 
+        image: 
+        from: 2016-07
+        to: 2016-07
         description: |
           [待補充]
